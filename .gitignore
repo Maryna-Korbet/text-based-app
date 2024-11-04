@@ -1,0 +1,5 @@
+.env
+*.key
+.streamlit/
+**/.streamlit/
+*.toml
